@@ -1,8 +1,6 @@
 # Arduino Timezone Library
-https://github.com/JChristensen/Timezone  
-README file  
-Jack Christensen  
-Mar 2012  
+
+Adapted from Jack Christensen's [Timezone library](https://github.com/JChristensen/Timezone). Only chnages done are the EEPROM part to work with ESP8266, now the readRules and writeRules part (EEPROM) of the library works as well. 
 
 ## License
 Arduino Timezone Library Copyright (C) 2018 Jack Christensen GNU GPL v3.0
